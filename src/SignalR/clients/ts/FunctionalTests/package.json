@@ -9,7 +9,7 @@
     "@microsoft/signalr-protocol-msgpack": "link:../signalr-protocol-msgpack"
   },
   "devDependencies": {
-    "@types/debug": "0.0.30",
+    "@types/debug": "0.0.31",
     "@types/jasmine": "^2.8.8",
     "@types/karma": "^6.3.1",
     "@types/node": "^9.6.28",
